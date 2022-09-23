@@ -1,2 +1,3 @@
 # latex
-My latex base template
+
+My $\LaTeX$ base template
