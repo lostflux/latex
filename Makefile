@@ -5,7 +5,7 @@
 
 clean:
 	# delete compiled pdfs
-	@find . -name *.pdf -exec rm -f {} +
+	# @find . -name *.pdf -exec rm -f {} +
 
 	# delete latexmk files
 	@find . -name *.fls -exec rm -f {} +
